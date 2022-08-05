@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border{
+    width: 0px;
+    height: 10px;
+    border-bottom: 10px solid red;
+    
+}
+.div{
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    color: azure;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    
+}
+.img{
+    width: 200px;
+    height: 180px;
+    border-radius: 50%;
+    
+}
+.imgdiv{
+    display: flex;
+    margin-left: 50px;
+
+}
